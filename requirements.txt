@@ -1,0 +1,6 @@
+findspark
+pyspark==2.4.3
+python-dateutil
+pathlib
+confluent_kafka
+kafka-python
